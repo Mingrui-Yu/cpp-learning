@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ymr/Mingrui/C++learning/ch2/build",
+  "command": "/usr/bin/g++-6    -g   -o CMakeFiles/p2_4.dir/p2_4.cpp.o -c /home/ymr/Mingrui/C++learning/ch2/p2_4.cpp",
+  "file": "/home/ymr/Mingrui/C++learning/ch2/p2_4.cpp"
+},
+{
+  "directory": "/home/ymr/Mingrui/C++learning/ch2/build",
+  "command": "/usr/bin/g++-6    -g   -o CMakeFiles/p2_2.dir/p2_2.cpp.o -c /home/ymr/Mingrui/C++learning/ch2/p2_2.cpp",
+  "file": "/home/ymr/Mingrui/C++learning/ch2/p2_2.cpp"
+},
+{
+  "directory": "/home/ymr/Mingrui/C++learning/ch2/build",
+  "command": "/usr/bin/g++-6    -g   -o CMakeFiles/p2_3.dir/p2_3.cpp.o -c /home/ymr/Mingrui/C++learning/ch2/p2_3.cpp",
+  "file": "/home/ymr/Mingrui/C++learning/ch2/p2_3.cpp"
+}
+]

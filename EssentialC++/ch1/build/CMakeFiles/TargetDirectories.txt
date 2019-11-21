@@ -1,0 +1,5 @@
+/home/ymr/Mingrui/C++learning/ch1/p1_5/build/CMakeFiles/rebuild_cache.dir
+/home/ymr/Mingrui/C++learning/ch1/p1_5/build/CMakeFiles/edit_cache.dir
+/home/ymr/Mingrui/C++learning/ch1/p1_5/build/CMakeFiles/p1_7.dir
+/home/ymr/Mingrui/C++learning/ch1/p1_5/build/CMakeFiles/p1_5.dir
+/home/ymr/Mingrui/C++learning/ch1/p1_5/build/CMakeFiles/p1_6.dir

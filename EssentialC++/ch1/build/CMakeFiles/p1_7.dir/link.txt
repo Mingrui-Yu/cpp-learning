@@ -1,0 +1,1 @@
+/usr/bin/g++-6  -g  -rdynamic CMakeFiles/p1_7.dir/p1_7.cpp.o  -o p1_7 
