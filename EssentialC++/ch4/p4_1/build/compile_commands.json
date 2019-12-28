@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/build",
+  "command": "/usr/bin/g++-6    -g   -o CMakeFiles/stack.dir/stack.cpp.o -c /home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/stack.cpp",
+  "file": "/home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/stack.cpp"
+},
+{
+  "directory": "/home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/build",
+  "command": "/usr/bin/g++-6    -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/main.cpp",
+  "file": "/home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/main.cpp"
+}
+]

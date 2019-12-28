@@ -1,0 +1,4 @@
+/home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/build/CMakeFiles/rebuild_cache.dir
+/home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/build/CMakeFiles/stack.dir
+/home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/build/CMakeFiles/edit_cache.dir
+/home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/build/CMakeFiles/main.dir

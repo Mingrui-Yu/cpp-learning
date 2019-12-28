@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ymr/Mingrui/C-learning/CMake/t2/build/bin",
+  "command": "/usr/bin/g++-6    -g   -o CMakeFiles/hello.dir/main.cpp.o -c /home/ymr/Mingrui/C-learning/CMake/t2/src/main.cpp",
+  "file": "/home/ymr/Mingrui/C-learning/CMake/t2/src/main.cpp"
+}
+]

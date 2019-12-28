@@ -1,0 +1,5 @@
+/home/ymr/Mingrui/C-learning/CMake/t3/build/CMakeFiles/rebuild_cache.dir
+/home/ymr/Mingrui/C-learning/CMake/t3/build/CMakeFiles/edit_cache.dir
+/home/ymr/Mingrui/C-learning/CMake/t3/build/lib/CMakeFiles/rebuild_cache.dir
+/home/ymr/Mingrui/C-learning/CMake/t3/build/lib/CMakeFiles/hello.dir
+/home/ymr/Mingrui/C-learning/CMake/t3/build/lib/CMakeFiles/edit_cache.dir

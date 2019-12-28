@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ymr/Mingrui/C-learning/CMake/t3/build/lib",
+  "command": "/usr/bin/g++-6  -Dhello_EXPORTS  -g -fPIC   -o CMakeFiles/hello.dir/hello.o -c /home/ymr/Mingrui/C-learning/CMake/t3/lib/hello.cpp",
+  "file": "/home/ymr/Mingrui/C-learning/CMake/t3/lib/hello.cpp"
+}
+]

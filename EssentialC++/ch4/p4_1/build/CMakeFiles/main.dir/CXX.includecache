@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/main.cpp
+iostream
+-
+string
+-
+stack.h
+/home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/stack.h
+
+/home/ymr/Mingrui/C-learning/EssentialC++/ch4/p4_1/stack.h
+string
+-
+vector
+-
+
