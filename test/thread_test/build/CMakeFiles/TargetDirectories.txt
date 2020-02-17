@@ -1,0 +1,3 @@
+/home/mingrui/Mingrui/cpp-learning/test/thread_test/build/CMakeFiles/rebuild_cache.dir
+/home/mingrui/Mingrui/cpp-learning/test/thread_test/build/CMakeFiles/thread_test.dir
+/home/mingrui/Mingrui/cpp-learning/test/thread_test/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mingrui/Mingrui/cpp-learning/test/thread_test/thread_test.cpp
+iostream
+-
+utility
+-
+thread
+-
+chrono
+-
+functional
+-
+atomic
+-
+mutex
+-
+

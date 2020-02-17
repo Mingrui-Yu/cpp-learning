@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mingrui/Mingrui/cpp-learning/test/thread_test/build",
+  "command": "/usr/bin/g++-7    -std=c++11 -pthread -g   -o CMakeFiles/thread_test.dir/thread_test.cpp.o -c /home/mingrui/Mingrui/cpp-learning/test/thread_test/thread_test.cpp",
+  "file": "/home/mingrui/Mingrui/cpp-learning/test/thread_test/thread_test.cpp"
+}
+]
