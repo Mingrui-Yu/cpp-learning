@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mingrui/Mingrui/cpp-learning/test/general_test/build",
+  "command": "/usr/bin/g++-7    -std=c++11 -pthread -g   -o CMakeFiles/vector_test.dir/vector_test.cpp.o -c /home/mingrui/Mingrui/cpp-learning/test/general_test/vector_test.cpp",
+  "file": "/home/mingrui/Mingrui/cpp-learning/test/general_test/vector_test.cpp"
+}
+]
